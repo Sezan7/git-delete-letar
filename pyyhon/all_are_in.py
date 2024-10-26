@@ -1,0 +1,5 @@
+print("hell0w how are you ")
+a = (1,3,4,5,6,7,)
+print(len(a))
+print(a.count(4))
+print(a.index(4))
